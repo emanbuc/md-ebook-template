@@ -1,0 +1,11 @@
+title:
+- type: main
+  text: E-Book Template
+creator:
+- role: author
+  text: Emanuele Buchicchio
+description: Template per la generaizone di eBook da file *.md
+rights: Creative Commons Attribution 4.0 International Public License
+language: it-IT
+stylesheet: epub.css
+cover-image: cover.jpg
